@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: poi277 # the main title
 
-tagline: hello friends # it will display as the subtitle
+tagline: 안녕 친구들 hello friends # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
